@@ -1,0 +1,1 @@
+Veri Yapıları C++ Ödevidir. Terminalde Mingw32-make yazarak (mingw32 kurulu olduğu varsayılır) çalıştırabilirsiniz.
